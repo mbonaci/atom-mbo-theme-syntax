@@ -72,7 +72,7 @@
 .entity {
   &.name.type {
     color: @syntax-text-color;
-    text-decoration: underline;
+    // text-decoration: underline;
   }
 
   &.other.inherited-class {
@@ -88,7 +88,7 @@
   }
 
   &.operator {
-    color: @red;
+    color: @blue-dark;
   }
 
   &.other.special-method {
@@ -101,7 +101,7 @@
 }
 
 .storage {
-  color: @orange-dark;
+  color: @blue;
 }
 
 .constant {
@@ -143,17 +143,7 @@
 
 
 
-.meta.structure.dictionary.json {
-  color: @blue-dark;
 
-  & > .string.quoted.json {
-    color: @syntax-text-color;
-  }
-
-  & > .value.json > .string.json {
-    color: @orange-light;
-  }
-}
 
 .string {
   color: @orange-light;
@@ -237,7 +227,7 @@
 
   &.name.tag {
     color: @blue;
-    text-decoration: underline;
+    // text-decoration: underline;
   }
 
   &.other.attribute-name {
