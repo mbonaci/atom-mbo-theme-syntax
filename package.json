@@ -1,0 +1,11 @@
+{
+  "name": "atom-mbo-theme-syntax",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "description": "mbonaci's dark pastel theme",
+  "repository": "https://github.com/mbonaci/atom-mbo-theme-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  }
+}
