@@ -1,4 +1,4 @@
-## mbo syntax atom theme
+## mbo atom syntax theme
 
 Dark, pastel theme for atom editor.
 
