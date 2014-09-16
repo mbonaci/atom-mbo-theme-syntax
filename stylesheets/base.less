@@ -108,7 +108,7 @@
   color: @blue-dark;
 
   &.character.escape {
-    color: @blue;
+    color: @orange-light;
   }
 
   &.numeric {
@@ -116,7 +116,7 @@
   }
 
   &.other.color {
-    color: @blue-medium;
+    color: @blue;
   }
 
   &.other.symbol {
@@ -169,7 +169,10 @@
       color: @gray;
     }
 
-    &.string,
+    &.string {
+      color: @orange-light;
+    }
+
     &.variable,
     &.parameters,
     &.array {
@@ -253,7 +256,7 @@
   }
 
   &.selector {
-    color: @blue-medium;
+    color: @blue;
   }
 
   &.separator {
