@@ -6,6 +6,6 @@
   "repository": "https://github.com/mbonaci/atom-mbo-theme-syntax",
   "license": "MIT",
   "engines": {
-    "atom": ">0.100.0"
+    "atom": ">0.50.0"
   }
 }
