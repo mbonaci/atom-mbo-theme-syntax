@@ -1,6 +1,7 @@
 ## mbo atom syntax theme
 
-Dark, pastel theme for atom editor.
+Dark, pastel theme for atom editor.  
+Goes great with [https://soundcloud.com/left-clik-music/**mbo-theme**-revisited-kanomarli](https://soundcloud.com/left-clik-music/mbo-theme-revisited-kanomarli) :)
 
 ### JavaScript:
 ![image](https://cloud.githubusercontent.com/assets/497926/4293738/241501dc-3dd9-11e4-8bc1-d350f12ea30a.png)
