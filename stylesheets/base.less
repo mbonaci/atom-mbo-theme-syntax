@@ -1,11 +1,6 @@
 @import "syntax-variables";
 
-.editor-colors {
-  background-color: @syntax-background-color;
-  color: @syntax-text-color;
-}
-
-.editor {
+.atom-text-editor {
   background-color: @syntax-background-color;
   color: @syntax-text-color;
 
@@ -56,12 +51,12 @@
   }
 }
 
-.editor .search-results .marker .region {
+.atom-text-editor .search-results .marker .region {
   background-color: transparent;
   border: 1px solid @syntax-result-marker-color;
 }
 
-.editor .search-results .marker.current-result .region {
+.atom-text-editor .search-results .marker.current-result .region {
   border: 1px solid @syntax-result-marker-color-selected;
 }
 
@@ -72,7 +67,6 @@
 .entity {
   &.name.type {
     color: @syntax-text-color;
-    // text-decoration: underline;
   }
 
   &.other.inherited-class {
@@ -316,6 +310,6 @@
   }
 }
 
-.editor.mini .scroll-view {
+.atom-text-editor[mini] .scroll-view {
   padding-left: 1px;
 }
