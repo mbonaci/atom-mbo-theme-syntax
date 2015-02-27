@@ -1,7 +1,7 @@
 {
   "name": "mbo",
   "theme": "syntax",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "A dark, pastel, minimal, 3 color theme for Atom",
   "repository": "https://github.com/mbonaci/atom-mbo-theme-syntax",
   "license": "MIT",
