@@ -8,4 +8,4 @@
 ## 1.0.0 - Upgrade to Atom v1.0 APIs
 * Replace selectors deprecated since Atom v1.13.0
 * Added `syntax--` prefixes where appropriate
-* Replaced `.editor` with `.atom-text-editor`
+* Replaced `.editor` with `atom-text-editor`
